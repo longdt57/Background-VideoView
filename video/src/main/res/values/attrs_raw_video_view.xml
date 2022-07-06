@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RawVideoView">
+        <attr name="video_raw_res" format="reference" />
+        <attr name="video_loop" format="boolean" />
+    </declare-styleable>
+</resources>
